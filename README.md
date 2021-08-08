@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 ~ (downloadable_data)='DevMon33_asset_data'
 [Create asset_data_resources]=100%
 #£X€¢UT£{parser_packer}
-*Build{pak_file}
+#(Build_pak_file)
+#(Parse_pak_file)
+#(Compile_pak_file)
+#(Check_pak_file)
+#(Save_pak_file)
+#(Run_pak_file)
+#(Flash_Format_pak_file-2-.docx)
+#(Reboot_Restart_System)
+#(Download_pak_file)
