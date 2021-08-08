@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: CodeGenie...
 - ⚡ Fun fact: There are outter beings among us...
 -->
+"DevMon33-Resources-Data"=www.DevMon33.com
+~ (downloadable_data)='DevMon33_asset_data'
+[Create asset_data_resources]=100%
+#£X€¢UT£{parser_packer}
+*Build{pak_file}
